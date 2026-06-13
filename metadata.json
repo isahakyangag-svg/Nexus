@@ -1,6 +1,0 @@
-{
-  "name": "Nexus",
-  "description": "Премиальный мессенджер с шифрованием, шумоподавлением AI и скоростью света — Будущее общения.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
